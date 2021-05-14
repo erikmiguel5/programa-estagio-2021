@@ -1,13 +1,16 @@
 import './App.css'
-import Map from './Map'
+import Map from './Components/Map'
+import Header from './Components/Header'
+import FilterBox from './Components/FilterBox'
+import Footer from './Components/Footer'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Hello world</h1>
-      </header>
+      <Header />
       <Map />
+      <FilterBox />
+      <Footer />
     </div>
   );
 }

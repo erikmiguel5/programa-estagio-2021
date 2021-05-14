@@ -1,0 +1,10 @@
+.filterBox-container {
+    position: relative;
+    top: 80px;
+    right: 5px;
+    width: 32%;
+    height: 500px;
+    float: right;
+    
+    background-color: royalblue;
+}

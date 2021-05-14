@@ -1,0 +1,19 @@
+.header-container {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 60px;
+    background-color: #666A8C;
+
+}
+
+.text-container {
+
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: left;
+    color: #E5E5E5;
+    text-shadow: 0 0 3px #E0B0B0, 0 0 5px #9c59b1;
+    font-size: 28px;
+
+}

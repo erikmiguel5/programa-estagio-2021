@@ -1,0 +1,13 @@
+.map-container {
+    position: relative;
+    display: inline-block;
+    top: 80px;
+    left: 10px;
+    width: 65%;
+    height: 500px;
+}
+
+.map {
+    height: 100%; 
+    width: 100%;
+}
