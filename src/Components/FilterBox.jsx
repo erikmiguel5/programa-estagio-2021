@@ -5,7 +5,7 @@ class FilterBox extends Component{
 
     render(){
         return(
-            <div className="filterBox-container">Box here</div>
+            <div className="filterBox-container">Pesquise a linha ou ponto de onibus desejado aqui!</div>
         )
     }
 

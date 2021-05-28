@@ -2,9 +2,14 @@
     position: relative;
     top: 80px;
     right: 5px;
-    width: 32%;
+    width: 30%;
     height: 500px;
     float: right;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    font-size: medium;
+    text-align: center;
     
-    background-color: royalblue;
+    background-color: #5f5c6d;
 }
